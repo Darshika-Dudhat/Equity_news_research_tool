@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+openai
+streamlit
+newsapi-python
+python-dotenv
+fpdf2
